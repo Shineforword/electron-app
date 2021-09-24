@@ -1,0 +1,26 @@
+{
+  "name": "tqian",
+  "version": "1.0.0",
+  "description": "qian",
+  "main": "main.js",
+  "scripts": {
+    "test": "qian",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shineforword/electron-app.git"
+  },
+  "keywords": [
+    "qian"
+  ],
+  "author": "Qian-Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shineforword/electron-app/issues"
+  },
+  "homepage": "https://github.com/Shineforword/electron-app#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
